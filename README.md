@@ -1,5 +1,7 @@
 # Khushi Vani - Personal Portfolio
 
+https://vani433.github.io/portfolio/
+
 A modern, responsive personal portfolio website built with simple, pure technologies:
 - HTML5
 - CSS3
